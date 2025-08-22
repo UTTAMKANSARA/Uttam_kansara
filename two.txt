@@ -1,3 +1,6 @@
 this is my secont folder on git
 
 add onoter file to the the folder.
+
+now i added succesfully the push command to the git and 
+added the file to the github. 
