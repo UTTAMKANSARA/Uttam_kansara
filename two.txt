@@ -1,1 +1,3 @@
 this is my secont folder on git
+
+add onoter file to the the folder.
